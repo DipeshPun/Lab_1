@@ -1,3 +1,4 @@
+/*Write a program that takes two or more sets as input and produce union as output*/
 #include<iostream>
 using namespace std;
 int main()
