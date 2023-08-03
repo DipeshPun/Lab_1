@@ -1,3 +1,5 @@
+/*Write a program that takes a real number and produces is ceiling and floor
+integers as output.*/
 #include<iostream>
 using namespace std;
 int main(){
