@@ -49,7 +49,7 @@ int main()
      }
    }
    
-   cout<<"Union of set a & b is="<<endl;
+   cout<<"Union of set a & b ="<<endl;
    cout<<"{";
     for(i=0;i<k;i++){
         cout<<c[i];
